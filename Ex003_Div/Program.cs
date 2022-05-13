@@ -7,5 +7,6 @@ Console.WriteLine(result);
 int result1 = (int)numberA / (int)numberB;  // явное числовое преобразование double в int
 
 Console.Write("Целочисленное деление    ");
-Console.WriteLine(result1);
+//Console.WriteLine(result1);
+Console.WriteLine((int)numberA / (int)numberB);
 
